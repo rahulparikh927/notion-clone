@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701009091823,
+      "tag": "0000_lazy_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701009741526,
+      "tag": "0001_lovely_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701010566706,
+      "tag": "0002_fluffy_shinobi_shaw",
+      "breakpoints": true
+    }
+  ]
+}
